@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">EventLocatorApp</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="action_settings">action_settings</string>
+    <string name="hint_mobile_number">+639151234567</string>
+    <string name="btn_done">Done</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="string_popularTab">Popular</string>
+    <string name="string_nearbyTab">Nearby</string>
+    <string name="string_recommendedTab">Recommended</string>
+    <string name="string_music">Music</string>
+</resources>

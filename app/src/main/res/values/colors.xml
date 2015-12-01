@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Login, Register and Preferences Color. -->
+    <color name="bg_login">#230F2B</color>
+    <color name="bg_register">#230F2B</color>
+    <color name="bg_main">#428bca</color>
+    <color name="white">#ffffff</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#222222</color>
+    <color name="input_register_bg">#ffffff</color>
+    <color name="input_register_hint">#999999</color>
+    <color name="btn_login">#230F2B</color>
+    <color name="btn_login_bg">#82B3AE</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#82B3AE</color>
+    <!-- Tabs Color. -->
+    <color name="colorPrimary">#125688</color>
+    <color name="colorPrimaryDark">#125688</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#c8e8ff</color>
+
+</resources>
